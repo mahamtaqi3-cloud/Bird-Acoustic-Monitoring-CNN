@@ -1,0 +1,6 @@
+tensorflow
+librosa
+numpy
+pandas
+opencv-python
+matplotlib
