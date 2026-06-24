@@ -1,4 +1,4 @@
-# Bird Acoustic Monitoring AI
+# Bird Acoustic Monitoring CNN
 
 This project implements an automated pipeline to identify bird species from long-duration audio recordings using Deep Learning.
 
